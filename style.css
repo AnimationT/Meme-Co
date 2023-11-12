@@ -1,3 +1,54 @@
 *{
     font-family: 'Rubik', sans-serif;
 }
+
+#motd{
+    color: red;
+}
+
+#motdText{
+    font-size: 50px;
+}
+
+#motdImg{
+    width: 400px;
+    height: 300px;
+}
+
+#ytPage{
+    background-color: pink;
+    display: inline-block;
+    border-radius: 20px;
+    float: left;   
+}
+
+ #ytImg{
+    width: 249.6px;
+    height: 250px;
+}
+
+#ttImg{
+    width: 249.6px;
+    height: 250px;
+}
+
+#ttPage{
+    background-color: blanchedalmond;
+    display: inline-block;
+    border-radius: 20px;
+    float: right;
+}
+
+#ytLink{
+    color: white;
+}
+
+#opMem{
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#opMem{
+    font-size: 44px;
+}

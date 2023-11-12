@@ -1,0 +1,17 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+#mainInfo{
+    font-size: 30px;
+}
+
+h1{
+    color: red;
+}
+
+#memego{
+    position: relative;
+    left: 100px;
+    bottom: 500px;
+}
